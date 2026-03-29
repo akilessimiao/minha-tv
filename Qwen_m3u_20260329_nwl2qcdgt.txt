@@ -1,0 +1,43 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Playlist IPTV - Canais Públicos Brasileiros
+# Atualizado: Março/2026 | Fonte: Links Oficiais
+
+# ==================== LEGISLATIVO ====================
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Legislativo",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado" tvg-logo="https://i.imgur.com/8xK9fJp.png" group-title="Legislativo",TV Senado
+https://tv.senado.leg.br/hls/tv-senado.m3u8
+
+# ==================== EDUCAÇÃO E CULTURA ====================
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TV_Brasil_logo.svg/512px-TV_Brasil_logo.svg.png" group-title="Educativo",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" group-title="Educativo",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-id="TVEscola.br" tvg-name="TV Escola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="Educativo",TV Escola
+https://video-rvd-mg-1.rnp.br/live/ocp(t(FlPOW0B8zkg)r(fVR9ug)a(yZaYKg)p(d(2xc)k(q8M)m(XcZEaxEjK7ftZIhwO7f_Og)n(a(izn18Q)s(Yq0)'a(r1A1-Q)s(jTA)))s(s(Tr8)b(lR7JvVzIf51na5bHrQlR9N0OYr4xenE41vrF4ior4J8uoGzZBWy6991Zkb4W8iNswhYh1Tj0vkugBJbaFg)'s(RyU)b(0D_ff2v5FWTk6UkkoLzLaws1Y86XCAHQbGiclkbToLTQiolq6IJdhV12GGT8UeyprfiSg8_0B3l4mBdlMNdHlW_aUOclvOr84K-YPhkw)'s(12w)b(cqRs4je9))m(0))/index.m3u8
+
+# ==================== NOTÍCIAS E INFORMAÇÃO ====================
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" group-title="Notícias",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+
+#EXTINF:-1 tvg-id="ISTV.br" tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" group-title="Notícias",ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+
+# ==================== SAÚDE E CIÊNCIA ====================
+#EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saúde" tvg-logo="https://i.imgur.com/kL9mN2p.png" group-title="Saúde",Canal Saúde
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
+
+# ==================== REGIONAIS PÚBLICAS ====================
+#EXTINF:-1 tvg-id="TVERS.br" tvg-name="TVE RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_TVE_RS.png" group-title="Regional",TVE RS
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Marca_rede_brasil_rgb-color.png" group-title="Cultural",Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+
+# ==================== BÔNUS: INTERNACIONAL PÚBLICO ====================
+#EXTINF:-1 tvg-id="NASATV.br" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/512px-NASA_logo.svg.png" group-title="Internacional",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-1/master.m3u8
