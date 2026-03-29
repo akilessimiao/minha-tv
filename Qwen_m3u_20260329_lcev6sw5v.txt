@@ -1,0 +1,13 @@
+#EXTM3U
+
+# Teste 1: NASA TV (Sempre funciona, sem geo-bloqueio)
+#EXTINF:-1 tvg-name="NASA TV" group-title="Teste",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-1/master.m3u8
+
+# Teste 2: Red Bull TV (Alta estabilidade)
+#EXTINF:-1 tvg-name="Red Bull TV" group-title="Teste",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/500811/geoRBmain/master_4000.m3u8
+
+# Teste 3: DW English (Deutsche Welle)
+#EXTINF:-1 tvg-name="DW English" group-title="Teste",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
